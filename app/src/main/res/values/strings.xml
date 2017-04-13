@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">OptionMenu</string>
+    <string name="tittle">Option Menu Application</string>
+    <string name="note">单击 Menu 键</string>
+    <string name="oper1">删除</string>
+    <string name="oper2">保存</string>
+    <string name="oper3">帮助</string>
+    <string name="oper4">添加</string>
+    <string name="oper5">详细</string>
+    <string name="oper6">发送</string>
+
+</resources>

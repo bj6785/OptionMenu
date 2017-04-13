@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <group
+        android:id="@+id/group1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+        <item
+            android:id="@+id/delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orderInCategory="1"
+            android:title="@string/oper1">
+        </item>
+        <item
+            android:id="@+id/save"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orderInCategory="2"
+            android:title="@string/oper2">
+        </item>
+        <item
+            android:id="@+id/help"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orderInCategory="3"
+            android:title="@string/oper3">
+        </item>
+        <item
+            android:id="@+id/add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orderInCategory="4"
+            android:title="@string/oper4">
+        </item>
+        <item
+            android:id="@+id/detail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orderInCategory="5"
+            android:title="@string/oper5">
+        </item>
+        <item
+            android:id="@+id/send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orderInCategory="6"
+            android:title="@string/oper6">
+        </item>
+    </group>
+
+</menu>
