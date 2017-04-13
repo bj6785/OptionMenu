@@ -68,7 +68,7 @@ public class MainActivity extends Activity {
 	public void onOptionsMenuClosed(Menu menu) {
 		// TODO Auto-generated method stub
 		super.onOptionsMenuClosed(menu);
-		Toast.makeText(MainActivity.this, "optionmenu closed!", Toast.LENGTH_SHORT)
+		Toast.makeText(MainActivity.this, "选项菜单关闭", Toast.LENGTH_SHORT)
 				.show();
 	}
 }
